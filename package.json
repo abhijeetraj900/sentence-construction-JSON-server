@@ -1,0 +1,24 @@
+{
+  "name": "sentence-construction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx json-server --watch db.json --port 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekkumar011/Sentence-construction-JSON-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekkumar011/Sentence-construction-JSON-server/issues"
+  },
+  "homepage": "https://github.com/abhishekkumar011/Sentence-construction-JSON-server#readme",
+  "description": "",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
